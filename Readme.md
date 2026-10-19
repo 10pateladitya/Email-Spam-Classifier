@@ -333,5 +333,3 @@ This project is part of my exploration of machine learning, NLP, and practical m
 <p align="center">
   <sub>MailShield · A hands-on exploration of text classification and applied machine learning.</sub>
 </p>
-#   E m a i l - S p a m - C l a s s i f i e r  
- 
